@@ -1,0 +1,27 @@
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+.bg-grey-custom {
+  background-color: #f2f2f2;
+}
+
+.navbar-nav a {
+  margin-right: 20px;
+  display: block;
+}
+
+.navbar-nav img {
+  width: 40px;
+  height: auto;
+}
+
+.life-area-box {
+  min-height: 160px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
